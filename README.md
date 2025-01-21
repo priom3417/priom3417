@@ -1,6 +1,6 @@
 # Hi there, I'm Priom Bhowmik 👋
 
-### 🚀 Senior Core Tech Engineer | PHP/Laravel | API Development | OpenCart | Competitive Programmer
+### 🚀 Senior Core Tech Engineer | PHP/Laravel | API Development | Competitive Programmer
 
 I'm Priom Bhowmik, a passionate programmer and backend developer with over three years of experience in developing robust APIs, integrating third-party services, and optimizing system functionality. I specialize in **PHP/Laravel**, **Vue.js**, and **MySQL**, and I enjoy working on real-world projects that require complex problem-solving and technical innovation.
 
