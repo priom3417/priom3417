@@ -1,46 +1,71 @@
-# Hi there, I'm Priom Bhowmik 👋
+# **Priom Bhowmik**
 
-### 🚀 Senior Core Tech Engineer | PHP/Laravel | API Development | Competitive Programmer
+### **Senior Software Engineer | Laravel Backend Specialist | API Integration Expert**
 
-I'm Priom Bhowmik, a passionate programmer and backend developer with over three years of experience in developing robust APIs, integrating third-party services, and optimizing system functionality. I specialize in **PHP/Laravel**, **Vue.js**, and **MySQL**, and I enjoy working on real-world projects that require complex problem-solving and technical innovation.
+I'm a dedicated and detail-oriented software engineer with 4+ years of experience in backend development, focusing on building scalable systems using **PHP (Laravel)**, **MySQL**, and modern web technologies. I’ve engineered robust REST and GraphQL APIs, integrated complex third-party services (e.g., Stripe, NMI, ShipStation), and led the backend development of high-traffic SaaS applications.
 
-### 👨‍💻 About Me
-- 🏢 **Currently working at:** Naxum Online Marketing System, LLC
-- 🔧 **Expertise in:** API development and integration, payment API integration (NMI, Mollie, Stripe, PayPal, Square, Nexio), and OpenCart customization
-- 🔄 **Notable Projects:** Autoresponder module, automated billing with CRON jobs, and Replicated Cart configuration
-- 🎓 **Education:** B.Sc. in Computer Science and Engineering from East West University (2020)
-- 🎖 **Dean's Scholarship:** Summer 2017 - Spring 2018
-- 📚 **Publication:** "Data Clustering Using Hybrid Genetic Algorithm with k-Means and k-Medoids Algorithms" presented at ICSEC 2019
-
-### 💼 Work Experience
-- **Senior Core Tech Engineer** at Naxum Online Marketing System, LLC  
-  _Remote (2023 - Present)_  
-  - Developing and integrating APIs for virtual office software used by referral marketing businesses
-  - Working with payment gateways like NMI, Mollie, Stripe, PayPal, and more
-  - Enhancing and configuring OpenCart-based e-commerce sites for optimized performance
-  - Developing CRON scripts for automated billing and autoship features
-  - Implementing automated email systems with dynamic templates using Laravel
-
-- **Associate Software Engineer** at Garnish Technology  
-  _January 2021 - December 2022_  
-  - Developed HRM modules for an ERP system, including employee and payroll management
-  - Gained expertise in handling large datasets and query optimization in Laravel
-
-- **Intern** at Lambda Technology  
-  _July 2020 - December 2020_  
-  - Focused on backend development for "QuizBuzz" mobile app using PHP/Laravel
-
-### 💡 Skills
-- **Languages & Frameworks:** PHP, Laravel, Vue.js, MySQL, JavaScript, jQuery, AJAX, C/C++, Perl
-- **Tools & Platforms:** OpenCart, Twilio, ShipStation, Git, Docker
-- **Competitive Programming:** Active problem solver and participant in online programming contests
-
-### 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/priom417/)
-- [Email](mailto:priom417@gmail.com)
-- [Portfolio](https://priom.me) _(coming soon)_
+Currently, I work as a **Senior Core Tech Engineer at Naxum Online Marketing System (Remote)**, where I lead backend architecture design, develop event-driven systems, and collaborate with a distributed team across multiple time zones. I take pride in designing systems that are not only functional but also resilient, secure, and maintainable.
 
 ---
 
-_"Coding is not just a profession, it's my passion!"_
+### 🔧 **Technical Expertise**
 
+* **Backend Development:** PHP, Laravel, RESTful APIs, GraphQL, OpenCart
+* **Frontend Integration:** Vue.js, JavaScript, HTML5, CSS3, jQuery, Ajax
+* **Database:** MySQL (query optimization, indexing), MongoDB, Redis
+* **DevOps & Tools:** Git, Docker, Linux, Apache, AWS EC2/S3, DigitalOcean
+* **Messaging & Automation:** CRON Jobs, Message Queues, Event-Driven Architecture
+* **API Integrations:** Stripe, NMI, PayPal, Mollie, Nexio, ShipStation, Twilio
+* **Testing & Quality:** PHPUnit, GitLab CI/CD, SOLID Principles
+* **Other:** Competitive programming (C/C++), Agile/Scrum methodologies
+
+---
+
+### 💼 **Professional Experience**
+
+#### **Senior Core Tech Engineer**
+
+**Naxum Online Marketing System, LLC** – *Remote | Jan 2023 – Present*
+
+* Led the development of 100+ REST & GraphQL APIs serving over 1.2M requests/day
+* Designed and implemented an event-driven billing engine powering 30K+ recurring subscriptions
+* Integrated third-party services including Stripe, NMI, PayPal, ShipStation, and SMS/email providers
+* Refactored monolithic codebases using repository patterns and modular architecture
+* Built scalable queue-driven email systems and automated autoship/billing workflows
+
+#### **Associate Software Engineer**
+
+**TARA TECH LTD** – *Dhaka | Jan 2021 – Dec 2022*
+
+* Developed core ERP modules: HRM, payroll, leave, and attendance systems
+* Optimized large-scale MySQL queries and introduced efficient pagination/indexing
+* Collaborated cross-functionally with QA and product teams in agile sprints
+
+#### **Backend Developer Intern**
+
+**Lambda Technology** – *Dhaka | Jul 2020 – Dec 2020*
+
+* Developed backend services for the mobile app “QuizBuzz” using Laravel
+* Participated in application planning and testing cycles
+
+---
+
+### 🎓 **Education**
+
+**B.Sc. in Computer Science & Engineering**
+East West University – *2015 – 2020*
+
+* **Dean's Scholarship Recipient** (2017–2018)
+* **Publication:** *Data Clustering Using Hybrid Genetic Algorithm with k-Means and k-Medoids*, IEEE (ICSEC 2019)
+
+---
+
+### 🌐 **Let’s Connect**
+
+* 🔗 [LinkedIn](https://www.linkedin.com/in/priom417/)
+* 📧 [priom417@gmail.com](mailto:priom417@gmail.com)
+* 🌐 [Portfolio (Coming Soon)](https://priom.me)
+
+---
+
+> *"I don’t just write code—I build systems that solve problems, scale efficiently, and empower people."*
