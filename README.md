@@ -1,71 +1,51 @@
-# **Priom Bhowmik**
+# Hi, I'm Priom Bhowmik 👋
 
-### **Senior Software Engineer | Laravel Backend Specialist | API Integration Expert**
+### Senior Back-End Engineer | PHP | Laravel | MySQL
 
-I'm a dedicated and detail-oriented software engineer with 4+ years of experience in backend development, focusing on building scalable systems using **PHP (Laravel)**, **MySQL**, and modern web technologies. I’ve engineered robust REST and GraphQL APIs, integrated complex third-party services (e.g., Stripe, NMI, ShipStation), and led the backend development of high-traffic SaaS applications.
+I'm a Back-End Engineer with 5+ years of experience building and maintaining web applications using PHP, Laravel, and MySQL. I've worked on a variety of projects, including large-scale MLM platforms, payment systems, and ERP software.
 
-Currently, I work as a **Senior Core Tech Engineer at Naxum Online Marketing System (Remote)**, where I lead backend architecture design, develop event-driven systems, and collaborate with a distributed team across multiple time zones. I take pride in designing systems that are not only functional but also resilient, secure, and maintainable.
+My experience includes developing REST APIs, integrating payment gateways, handling complex business logic, optimizing database queries, and building background processes. I enjoy solving problems, improving existing systems, and writing clean, maintainable code.
 
----
+### 🛠️ Technologies & Tools
 
-### 🔧 **Technical Expertise**
+**Backend**
+- PHP, Laravel
+- REST APIs, Laravel Queues
+- MySQL
+- Perl
 
-* **Backend Development:** PHP, Laravel, RESTful APIs, GraphQL, OpenCart
-* **Frontend Integration:** Vue.js, JavaScript, HTML5, CSS3, jQuery, Ajax
-* **Database:** MySQL (query optimization, indexing), MongoDB, Redis
-* **DevOps & Tools:** Git, Docker, Linux, Apache, AWS EC2/S3, DigitalOcean
-* **Messaging & Automation:** CRON Jobs, Message Queues, Event-Driven Architecture
-* **API Integrations:** Stripe, NMI, PayPal, Mollie, Nexio, ShipStation, Twilio
-* **Testing & Quality:** PHPUnit, GitLab CI/CD, SOLID Principles
-* **Other:** Competitive programming (C/C++), Agile/Scrum methodologies
+**Frontend**
+- Vue.js, JavaScript
+- Blade, Pinia, Vite
 
----
+**Tools & Others**
+- Git, GitLab, Docker
+- Linux, GitLab CI/CD
+- PHPUnit, Pest
 
-### 💼 **Professional Experience**
+### 💼 Experience
 
-#### **Senior Core Tech Engineer**
+- **Naxum Online Marketing Services, LLC** — Senior Back-End Engineer
+  - Developed features for a white-label MLM platform.
+  - Worked on commission calculations, payment integrations, recurring billing, and e-commerce integrations.
+  - Built background processes and automated business operations using Laravel Queues and CRON jobs.
+  - Maintained and extended legacy systems built with Perl and raw PHP.
 
-**Naxum Online Marketing System, LLC** – *Remote | Jan 2023 – Present*
+- **Tara Tech Ltd** — Associate Software Engineer
+  - Developed ERP solutions for NGO businesses.
+  - Worked on HRM features, including employee onboarding, payroll, leave management, and attendance tracking.
+  - Improved database performance through indexing, pagination, and query optimization.
 
-* Led the development of 100+ REST & GraphQL APIs serving over 1.2M requests/day
-* Designed and implemented an event-driven billing engine powering 30K+ recurring subscriptions
-* Integrated third-party services including Stripe, NMI, PayPal, ShipStation, and SMS/email providers
-* Refactored monolithic codebases using repository patterns and modular architecture
-* Built scalable queue-driven email systems and automated autoship/billing workflows
+### 🚀 Areas of Interest
 
-#### **Associate Software Engineer**
+- Back-End Development
+- Software Architecture
+- REST API Development
+- Database Design & Optimization
+- Payment Gateway Integration
+- Distributed Background Processing
 
-**TARA TECH LTD** – *Dhaka | Jan 2021 – Dec 2022*
+### 📫 Connect With Me
 
-* Developed core ERP modules: HRM, payroll, leave, and attendance systems
-* Optimized large-scale MySQL queries and introduced efficient pagination/indexing
-* Collaborated cross-functionally with QA and product teams in agile sprints
-
-#### **Backend Developer Intern**
-
-**Lambda Technology** – *Dhaka | Jul 2020 – Dec 2020*
-
-* Developed backend services for the mobile app “QuizBuzz” using Laravel
-* Participated in application planning and testing cycles
-
----
-
-### 🎓 **Education**
-
-**B.Sc. in Computer Science & Engineering**
-East West University – *2015 – 2020*
-
-* **Dean's Scholarship Recipient** (2017–2018)
-* **Publication:** *Data Clustering Using Hybrid Genetic Algorithm with k-Means and k-Medoids*, IEEE (ICSEC 2019)
-
----
-
-### 🌐 **Let’s Connect**
-
-* 🔗 [LinkedIn](https://www.linkedin.com/in/priom417/)
-* 📧 [priom417@gmail.com](mailto:priom417@gmail.com)
-* 🌐 [Portfolio (Coming Soon)](https://priom.me)
-
----
-
-> *"I don’t just write code—I build systems that solve problems, scale efficiently, and empower people."*
+- **Email:** priom417@gmail.com
+- **LinkedIn:** [Priom Bhowmik](https://www.linkedin.com/)
